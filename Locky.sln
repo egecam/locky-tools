@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Locky", "Locky\Locky.csproj", "{5DED5820-61CC-4278-B563-5CBBBFBF41C8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DED5820-61CC-4278-B563-5CBBBFBF41C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DED5820-61CC-4278-B563-5CBBBFBF41C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DED5820-61CC-4278-B563-5CBBBFBF41C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DED5820-61CC-4278-B563-5CBBBFBF41C8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7DA4D2F-AD86-4653-9C65-9376CA4D56A0}
+	EndGlobalSection
+EndGlobal

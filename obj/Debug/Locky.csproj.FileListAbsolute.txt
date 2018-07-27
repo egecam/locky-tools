@@ -1,0 +1,15 @@
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\bin\Debug\Locky.exe.config
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\bin\Debug\Locky.exe
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\bin\Debug\Locky.pdb
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\obj\Debug\Locky.csprojResolveAssemblyReference.cache
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\obj\Debug\Locky.Form1.resources
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\obj\Debug\Locky.Properties.Resources.resources
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\obj\Debug\Locky.csproj.GenerateResource.cache
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\obj\Debug\Locky.csproj.CoreCompileInputs.cache
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\obj\Debug\Locky.exe
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\obj\Debug\Locky.pdb
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\obj\Debug\Locky.Giris.resources
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\bin\Debug\Locky.exe.manifest
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\bin\Debug\Locky.application
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\obj\Debug\Locky.exe.manifest
+C:\Users\aggre\Documents\Visual Studio 2017\Projects\Locky\Locky\obj\Debug\Locky.application

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PublishUrlHistory>C:\Users\aggre\Documents\Up%27n%27Up\Locky Araçları\|publish\</PublishUrlHistory>
+    <InstallUrlHistory>https://projectupnup.blogspot.com/</InstallUrlHistory>
+    <SupportUrlHistory>https://twitter.com/projectupnup</SupportUrlHistory>
+    <UpdateUrlHistory>https://projectupnup.blogspot.com/p/locky-araclar-guncelleme.html/</UpdateUrlHistory>
+    <BootstrapperUrlHistory />
+    <ErrorReportUrlHistory />
+    <FallbackCulture>tr-TR</FallbackCulture>
+    <VerifyUploadedFiles>true</VerifyUploadedFiles>
+  </PropertyGroup>
+</Project>
